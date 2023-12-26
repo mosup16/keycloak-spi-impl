@@ -1,1 +1,1 @@
- ## This repo demonstarate how to implement custom keycloak registration and implements some of keycloak SPIs 
+ ## This repository demonstrates how to implement custom Keycloak registration and provides implementations for some of Keycloak's SPIs.
